@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busra</h1>
-<h3 align="center">I am a first year computer engineering student.</h3>
+<h3 align="center">I am computer engineering student.</h3>
 
 - 📫 How to reach me **busraphlvn65@gmail.com**
 
