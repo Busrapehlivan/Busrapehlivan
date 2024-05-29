@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Büşra, a computer engineering student.
+https://flowcv.me/busra-pehlivan
 
 
 ## 🌐 Socials:
