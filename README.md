@@ -1,8 +1,12 @@
+
+## 📝 About Me
+I’m an computer engineering student passionate about artificial intelligence, innovation, and sustainability. I strive to create impactful solutions with an entrepreneurial mindset, leveraging technology to build a better world. Skilled in problem-solving, teamwork, and strategic thinking, I aim to contribute meaningfully to projects that drive positive change.
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-pehlivan/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@busraphlvn)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Busra-135)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/busraphlvn/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@busraphlvn)   
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF6B00.svg?logo=huggingface&logoColor=white)](https://huggingface.co/busraphlvn)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/busrapehlivan)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:busraphlvn65@gmail.com)
